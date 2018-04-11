@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/aliensadde/lab05.svg?branch=master)](https://travis-ci.org/aliensadde/lab05)
+[![Build Status](https://travis-ci.org/aliensadde/lab06.svg?branch=master)](https://travis-ci.org/aliensadde/lab06)
